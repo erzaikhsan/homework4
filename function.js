@@ -1,3 +1,7 @@
+// Nama  : Erza Ikhsani
+// Kelas : FSWD A
+// Batch : 5
+
 // Function untuk mendapatkan array dengan 100 nilai random antara 1 - 50
 function Random() {
     let array = [];
